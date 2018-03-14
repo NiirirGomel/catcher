@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683609201099",
+    "firebase_url": "https://two-thousand-seven.firebaseio.com",
+    "project_id": "two-thousand-seven",
+    "storage_bucket": "two-thousand-seven.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683609201099:android:050e03cb060f7d5c",
+        "android_client_info": {
+          "package_name": "com.elfsnof.twoThousandSeven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683609201099-78r6uggdtfn2svtbtgnl0g6eiitkaibq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elfsnof.twoThousandSeven",
+            "certificate_hash": "F4BA0C44E5914422CE25303E2944581242AFA6A4"
+          }
+        },
+        {
+          "client_id": "683609201099-1f69btd74pobojmea7v4jqojshnkbe8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8Yu0QSBvDQ-pizq-6j-MDNj4gRb1gl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683609201099-1f69btd74pobojmea7v4jqojshnkbe8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
